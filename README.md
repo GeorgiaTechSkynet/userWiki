@@ -484,7 +484,7 @@ If you want to host an internal web server for dev purposes (e.g., jupyter noteb
 
 ## Getting Help
 
-Your main points of contact the lab admins (listed [below](http://optimus.cc.gatech.edu/wiki/skynet#extras_labs)) and the #skynet-users channel on the CVMLP slack. Ask about any skynet specific technical or political problems at these places.
+Contact your lab admin or the #skynet-users channel on the CVMLP slack. Ask about any skynet specific technical or political problems at these places.
 
 # Conclusion
 
@@ -494,4 +494,4 @@ If you want anything else or have any suggestions or questions, let us know.
 
 An old version of this document is available on Socrates [here](http://socrates.io/#B9yNTZl/read).
 
-Information for administrators is available [here](http://optimus.cc.gatech.edu/wiki/Skynet-Administration).
+Information for administrators is available [here](https://github.com/GeorgiaTechSkynet/skynet_ansible).
