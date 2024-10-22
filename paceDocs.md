@@ -26,13 +26,14 @@ I'll fill this out later, but basically just follow the above command.
 ## Storage
 Each lab has 10T free cedar storage which is mounted on both skynet and pace.  
 
-Skynet locations
+### Skynet locations
 Judy: `/coc/cedarp-jhoffman68-0/<your username here>`
+
 Danfei: `/coc/cedarp-dxu345-0/<your username here>`
 
 On skynet, in your home directory create a symlink for instance for Judy's lab I do `ln -s /coc/cedarp-jhoffman68-0/<my username> jcedar`
 
-Pace locations
+### Pace locations
 Judy: `/storage/cedar/cedar0/cedarp-jhoffman68-0`
 Danfei: `/storage/cedar/cedar0/cedarp-dxu-345`
 
