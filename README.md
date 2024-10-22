@@ -21,48 +21,23 @@ CoC TSO does most of the initial setup. Then a team of RS/postdocs + students (w
 
 ### Labs
 
-* CVMLP (Devi Parikh and Dhruv Batra)
-    * lab admins: Andrew Szot, Harsh Agrawal, Ram Ramrakhya, Naoki Yokoyama
-    * slurm account: cvmlp-lab
-* Irfan Essa's lab
-    * lab admins: Vincent Cartillier 
-    * slurm account: essa-lab
-* James Hays' lab
-    * lab admins: Ben Wilson
-    * slurm account: hays-lab
-* Zsolt Kira's lab
-    * lab admins: Chia-Wen Kuo
-    * slurm account: kira-lab
-* Judy Hoffman's lab
-    * lab admins: Simar Kareer
-    * slurm account: hoffman-lab
-* Wei Xu and Alan Ritter's lab
-    * lab admins: Junmo Kang
-    * slurm account: nlprx-lab
-* Sehoon Ha's Lab:
-    * lab admins: Maksim Sorokin
-    * slurm account: ha-lab
-* Mark Riedl's Lab:
-    * lab admins: Jonathan Balloch
-    * slurm account: ei-lab
-* Sonia Chernova's Lab:
-    * lab admins: Kartik Ramachandruni
-    * slurm account: rail-lab
-* James Rehg's Lab:
-    * lab admins: Max Xu
-    * slurm account: rehg-lab
-* Chris MacLellan's Lab:
-    * lab admins: Lane Lawley
-    * slurm account: tail-lab
-* Danfei Xu's Lab:
-    * lab admins: Shuo Cheng
-    * slurm account: rl2-lab
-* Harish Ravichandar's Lab:
-    * lab admins: Jiazhen Liu
-    * slurm account: ravichandar-lab
-* Anqi Wu's Lab:
-    * lab admins: Chengrui Li
-    * slurm account: wu-lab
+| **Lab**                         | **Lab Admins**                  | **Slurm Account**    |
+|----------------------------------|---------------------------------|----------------------|
+| CVMLP (Devi Parikh & Dhruv Batra) | Andrew Szot, Harsh Agrawal, Ram Ramrakhya, Naoki Yokoyama | cvmlp-lab           |
+| Irfan Essa's Lab                 | Vincent Cartillier              | essa-lab             |
+| James Hays' Lab                  | Ben Wilson                      | hays-lab             |
+| Zsolt Kira's Lab                 | Chia-Wen Kuo                    | kira-lab             |
+| Judy Hoffman's Lab               | Simar Kareer                    | hoffman-lab          |
+| Wei Xu & Alan Ritter's Lab       | Junmo Kang                      | nlprx-lab            |
+| Sehoon Ha's Lab                  | Maksim Sorokin                  | ha-lab               |
+| Mark Riedl's Lab                 | Jonathan Balloch                | ei-lab               |
+| Sonia Chernova's Lab             | Kartik Ramachandruni            | rail-lab             |
+| James Rehg's Lab                 | Max Xu                          | rehg-lab             |
+| Chris MacLellan's Lab            | Lane Lawley                     | tail-lab             |
+| Danfei Xu's Lab                  | Shuo Cheng                      | rl2-lab              |
+| Harish Ravichandar's Lab         | Jiazhen Liu                     | ravichandar-lab      |
+| Anqi Wu's Lab                    | Chengrui Li                     | wu-lab               |
+
 
 # SkyNet Machines
 
