@@ -108,18 +108,11 @@ Host sky1
     SetEnv SKY_VSC_LAUNCH="--gpus a40:1 --cpus-per-task 15 --partition <LAB NAME>"
     ForwardX11Trusted yes
     ForwardAgent yes
-Host sky1A40
-    RequestTTY force
-    User <USERNAME>
-    UserKnownHostsFile=/dev/null
-    ForwardAgent yes
-    StrictHostKeyChecking no
-    ProxyCommand ssh sky1 /coc/testnvme/admin/tools/skynet-utilities/vscode-launch.sh
 ```
 
-Now open up your vscode (you might need to restart), and in the left hand bar select "Remote Explorer".  You can now click `sky1` or `sky2` to connect!  If you click `sky1A40` it will directly allocate you a gpu, and attach your vscode to that instance.  Feel free to change `a40` to any other gpu type you want.
+Now open up your vscode (you might need to restart), and in the left hand bar select "Remote Explorer".  You can now click `sky1` or `sky2` to connect!
 
-Here are [pycharm instructions](https://www.notion.so/PyCharm-SLURM-Remote-Development-Environment-d5e22ae5257a496aba4804373a8812f6?pvs=21) as well.
+When you connect to sky1 or sky2, it's important to note that your vscode session is not attached to a gpu.  In some cases, like when you want to use a vscode jupyter notebook with a gpu attached, make sure to use this [tool](https://github.com/apjez/vscode-slurm-launcher)
 
 ## How does storage work?
 
