@@ -24,7 +24,7 @@ CoC TSO does most of the initial setup. Then a team of RS/postdocs + students (w
 | **Lab**                         | **Lab Admins**                  | **Slurm Account**    |
 |----------------------------------|---------------------------------|----------------------|
 | CVMLP (Devi Parikh & Dhruv Batra) | Andrew Szot, Harsh Agrawal, Ram Ramrakhya, Naoki Yokoyama | cvmlp-lab           |
-| Irfan Essa's Lab                 | Vincent Cartillier              | essa-lab             |
+| Irfan Essa's Lab                 | Nikolai Warner                  | essa-lab             |
 | James Hays' Lab                  | Jim James                       | hays-lab             |
 | Zsolt Kira's Lab                 | Chia-Wen Kuo                    | kira-lab             |
 | Judy Hoffman's Lab               | Simar Kareer                    | hoffman-lab          |
