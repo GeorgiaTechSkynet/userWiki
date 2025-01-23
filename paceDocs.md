@@ -35,7 +35,7 @@ On skynet, in your home directory create a symlink for instance for Judy's lab I
 
 ### Pace locations
 Judy: `/storage/cedar/cedar0/cedarp-jhoffman68-0`
-Danfei: `/storage/cedar/cedar0/cedarp-dxu-345`
+Danfei: `/storage/cedar/cedar0/cedarp-dxu345-0/`
 
 Do the same style of symlink on pace `ln -s /storage/cedar/cedar0/cedarp-jhoffman68-0/<myusername> jcedar`
 
