@@ -279,6 +279,7 @@ You only need to log in to one of the computing clusters - your home directory i
 * rl2-lab
   * `/srv/rl2-lab/flash7` (35T) `horizon` NVMe fileserver
   * `/srv/rl2-lab/flash8` (35T) `horizon` NVMe fileserver
+  * `/srv/rl2-lab/pskynet7` (35T) `agamemnon` fileserver
 
 * wu-lab
   * `/srv/wu-lab/flash12`
