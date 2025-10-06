@@ -154,6 +154,7 @@ The following are preinstalled onto skynet (just type these commands anywhere)
 * User breakdown: `gpu_usage -u`
 * Users in specific lab: `gpu_usage -u -p <lab-name>`
 * Lab breakdown: `gpu_usage -l`
+* Lab-wise node status: `node_tracker`
 
 ### Sbatch
 
