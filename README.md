@@ -28,7 +28,7 @@ CoC TSO does most of the initial setup. Then a team of RS/postdocs + students (w
 | Zsolt Kira's Lab                 | Ram Ramrakhya                   | kira-lab             |
 | Judy Hoffman's Lab               | Simar Kareer                    | hoffman-lab          |
 | Wei Xu & Alan Ritter's Lab       | Junmo Kang                      | nlprx-lab            |
-| Sehoon Ha's Lab                  | Maksim Sorokin                  | ha-lab               |
+| Sehoon Ha's Lab                  | Hyunyoung Jung                  | ha-lab               |
 | Mark Riedl's Lab                 | Glenn Matlin                    | ei-lab               |
 | Sonia Chernova's Lab             | Kartik Ramachandruni            | rail-lab             |
 | James Rehg's Lab                 | Max Xu                          | rehg-lab             |
