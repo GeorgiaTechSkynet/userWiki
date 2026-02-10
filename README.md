@@ -32,7 +32,7 @@ CoC TSO does most of the initial setup. Then a team of RS/postdocs + students (w
 | Mark Riedl's Lab                 | Glenn Matlin                    | ei-lab               |
 | Sonia Chernova's Lab             | Kartik Ramachandruni            | rail-lab             |
 | James Rehg's Lab                 | Max Xu                          | rehg-lab             |
-| Chris MacLellan's Lab            | Lane Lawley                     | tail-lab             |
+| Chris MacLellan's Lab            | Zekun Wang                      | tail-lab             |
 | Danfei Xu's Lab                  | Shuo Cheng                      | rl2-lab              |
 | Harish Ravichandar's Lab         | Jiazhen Liu                     | ravichandar-lab      |
 | Anqi Wu's Lab                    | Chengrui Li                     | wu-lab               |
